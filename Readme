@@ -1,0 +1,24 @@
+CyanMobile translator
+
+how to translate into your language
+
+first, do a "git clone" or "fork" this repository
+
+translate all files inside all folder "values"
+
+then create your language folder
+
+example
+
+you want to translate into "indonesian", then
+
+create folder "values-in" inside all folder in this repository
+
+then translate all "strings.xml" and "arrays.xml" and then copy into your language folder
+
+after you done with it,
+
+do pull request into this repository
+
+thanks for your cooperation, :)
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Global Strings -->
+    <string name="app_name">SIMExporter</string>
+    
+    <!-- Strings for the Contact Manager -->
+    <string name="phone_tab_title">Phone</string>
+    <string name="sim_tab_title">Sim Card</string>
+    
+    <!-- Context menus -->
+    <string name="context_header_phone">Modify Phone Contact</string>
+    <string name="context_header_sim">Modify SIM Contact</string>
+    <string name="context_entry_copy_to_phone">Copy to phone</string>
+    <string name="context_entry_edit_on_phone">Edit</string>
+    <string name="context_entry_delete_from_sim">Delete from SIM</string>
+    <string name="context_entry_copy_to_sim">Copy to SIM card</string>
+    
+    <!-- Alerts -->
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+    
+    <!-- Confirmation Strings -->
+    <string name="confirm_sim_contact_stored">Contact stored on SIM.</string>
+    <string name="confirm_sim_contact_removed">Contact removed from SIM.</string>
+    <string name="confirm_phone_contact_number_stored">Contact number stored on Phone.</string>
+    
+    <!-- Error messages -->
+    <string name="error_sim_contact_conversion_failed">Contact could not be converted to SIM format! Maybe SIM is full?</string>
+    <string name="error_sim_contact_already_present">Already on SIM!</string>
+    <string name="error_sim_contact_not_stored">Error storing on SIM!</string>
+    <string name="error_sim_error_during_contact_removal">Error during deletion of contact on SIM!</string>
+    <string name="error_sim_x_contacts_existing">Cannot identify exactly one contact on SIM to delete! Not deleted. Count: </string>
+    <string name="error_phone_contact_already_present">Already on Phone!</string>
+    <string name="error_phone_contact_not_stored">Error storing contact on Phone!</string>
+    <string name="error_phone_number_not_stored">Error adding number to contact on Phone!</string>
+    <string name="error_phone_number_error">Unknown error while adding number to contact on Phone!</string>
+    
+    
+</resources>

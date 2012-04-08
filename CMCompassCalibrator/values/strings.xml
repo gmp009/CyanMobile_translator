@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="compass_title">Rotation and Compass calibration</string>
+	<string name="app_name">Compass Calibration</string>
+	<string name="compass_calibrate">Calibrate now</string>
+        <string name="compcalibration">Calibrate Compass</string>
+        <string name="compcalibrationdialog">Calibration mode is active, please put device on flat table, then click OK</string>
+</resources>
+

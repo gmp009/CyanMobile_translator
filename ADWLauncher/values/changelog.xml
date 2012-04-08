@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="adw_changelog">
+-&lt;b>NOTICE:&lt;/b> Welcome to CyanMobile intial A &lt;br>&lt;br>
+-&lt;b>REMEMBER:&lt;/b> Before you ask something, Please Play more with rom &lt;br>&lt;br>
+
+&lt;b>Initial release:&lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+-Add option to move left, right, and center for clock, carrier label, and carrier logo &lt;br>
+-Changeable colour for all in statusbar text and lockscreen &lt;br>
+-Changeable UI now support by theme installed &lt;br>
+-Add option to hide statusbar &lt;br>
+-Add option net counter &lt;br>
+-Add option shutdown timer &lt;br>
+-Add 4 different layout statusbar &lt;br>
+-with 4 grid view &lt;br>
+-Add option to hide toggle from power menu &lt;br>
+-Fix density scale option &lt;br>
+-Fix suspend and hibernate option &lt;br>
+-More fix statusbar reverse option &lt;br>
+-More fix power saver option &lt;br>
+-Refactor framework for better view &lt;br>
+-Add option to enable/disable back button reject call &lt;br>
+-Remove flip play/pause music &lt;br>
+-Update adreno lib to the latest one &lt;br>
+-Update audio driver and config &lt;br>
+-Remove unusefull dictionary &lt;br>
+-Remove all locale and Only support english &lt;br>
+-Update apn files &lt;br>
+-Fix fm radio routing for some baseband &lt;br>
+-Update libjpeg, now using libjpeg-turbo from cm9 &lt;br>
+-Fix cpu profile &lt;br>
+-Automatic calibrate battery if battery capasity is 100 prosen total fully using engineer calculation method &lt;br>
+-New kernel 2.6.36.10 &lt;br>
+-Rebased source code rom with cm, aosp and aokp &lt;br>
+-Add option to choose font type (support upto 5 different type) &lt;br>
+-Changeable font &lt;br>
+-Honeycomb lockscreen full function &lt;br>
+-Better memory management &lt;br>
+-Many bug fix from old rom that cause by merging source code &lt;br>
+
+</string>
+</resources>
